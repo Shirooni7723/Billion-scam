@@ -1,0 +1,253 @@
+{
+  "investigation_date": "2026-01-19T04:49:07.872489+00:00",
+  "total_users": 27,
+  "high_suspicion_users": 27,
+  "medium_suspicion_users": 0,
+  "low_suspicion_users": 0,
+  "users_with_sog": 27,
+  "ranking": [
+    {
+      "rank": 1,
+      "twitter": "AbubakarLawali_",
+      "discord": "abubakarlawaliwasagu",
+      "suspicion_score": 100,
+      "total_messages": 49,
+      "has_sog": true,
+      "red_flags_count": 3
+    },
+    {
+      "rank": 2,
+      "twitter": "mdshefat217",
+      "discord": "mdshefat217",
+      "suspicion_score": 100,
+      "total_messages": 24,
+      "has_sog": true,
+      "red_flags_count": 3
+    },
+    {
+      "rank": 3,
+      "twitter": "rigankudi",
+      "discord": "rigankudi",
+      "suspicion_score": 100,
+      "total_messages": 93,
+      "has_sog": true,
+      "red_flags_count": 2
+    },
+    {
+      "rank": 4,
+      "twitter": "EbenezerShonowo",
+      "discord": "eben49_43060",
+      "suspicion_score": 100,
+      "total_messages": 99,
+      "has_sog": true,
+      "red_flags_count": 1
+    },
+    {
+      "rank": 5,
+      "twitter": "ib1_uzairu",
+      "discord": "yresearcher",
+      "suspicion_score": 100,
+      "total_messages": 92,
+      "has_sog": true,
+      "red_flags_count": 1
+    },
+    {
+      "rank": 6,
+      "twitter": "__Ahmad__Arif__",
+      "discord": "ahmad_39523",
+      "suspicion_score": 100,
+      "total_messages": 500,
+      "has_sog": true,
+      "red_flags_count": 1
+    },
+    {
+      "rank": 7,
+      "twitter": "00adewale",
+      "discord": "0xadewale",
+      "suspicion_score": 100,
+      "total_messages": 500,
+      "has_sog": true,
+      "red_flags_count": 0
+    },
+    {
+      "rank": 8,
+      "twitter": "0xalamm",
+      "discord": "alamr7",
+      "suspicion_score": 100,
+      "total_messages": 500,
+      "has_sog": true,
+      "red_flags_count": 0
+    },
+    {
+      "rank": 9,
+      "twitter": "Ade_Ola221",
+      "discord": "cypherlon",
+      "suspicion_score": 100,
+      "total_messages": 500,
+      "has_sog": true,
+      "red_flags_count": 0
+    },
+    {
+      "rank": 10,
+      "twitter": "ARPAANNN",
+      "discord": "iamswatiiiii",
+      "suspicion_score": 100,
+      "total_messages": 500,
+      "has_sog": true,
+      "red_flags_count": 0
+    },
+    {
+      "rank": 11,
+      "twitter": "AsifOfficial00",
+      "discord": "iasifmahmud",
+      "suspicion_score": 100,
+      "total_messages": 500,
+      "has_sog": true,
+      "red_flags_count": 0
+    },
+    {
+      "rank": 12,
+      "twitter": "CryptoWithCK",
+      "discord": "chetan78i",
+      "suspicion_score": 100,
+      "total_messages": 500,
+      "has_sog": true,
+      "red_flags_count": 0
+    },
+    {
+      "rank": 13,
+      "twitter": "dotmantissa",
+      "discord": "allergyyyishere",
+      "suspicion_score": 100,
+      "total_messages": 500,
+      "has_sog": true,
+      "red_flags_count": 0
+    },
+    {
+      "rank": 14,
+      "twitter": "Favblakboy",
+      "discord": "praizoski",
+      "suspicion_score": 100,
+      "total_messages": 500,
+      "has_sog": true,
+      "red_flags_count": 0
+    },
+    {
+      "rank": 15,
+      "twitter": "HsShamsudeen19",
+      "discord": "hshamsudeen",
+      "suspicion_score": 100,
+      "total_messages": 500,
+      "has_sog": true,
+      "red_flags_count": 0
+    },
+    {
+      "rank": 16,
+      "twitter": "imasterathan",
+      "discord": "imasterathan",
+      "suspicion_score": 100,
+      "total_messages": 500,
+      "has_sog": true,
+      "red_flags_count": 0
+    },
+    {
+      "rank": 17,
+      "twitter": "itsamit2506",
+      "discord": "itsamit2506",
+      "suspicion_score": 100,
+      "total_messages": 500,
+      "has_sog": true,
+      "red_flags_count": 0
+    },
+    {
+      "rank": 18,
+      "twitter": "jamiuG01",
+      "discord": "jaygold5483",
+      "suspicion_score": 100,
+      "total_messages": 224,
+      "has_sog": true,
+      "red_flags_count": 0
+    },
+    {
+      "rank": 19,
+      "twitter": "mahnoor_zz",
+      "discord": "mahnoor_123",
+      "suspicion_score": 100,
+      "total_messages": 500,
+      "has_sog": true,
+      "red_flags_count": 0
+    },
+    {
+      "rank": 20,
+      "twitter": "medify5magic",
+      "discord": "samstar71",
+      "suspicion_score": 100,
+      "total_messages": 500,
+      "has_sog": true,
+      "red_flags_count": 0
+    },
+    {
+      "rank": 21,
+      "twitter": "nath_yaps",
+      "discord": "nath_yaps",
+      "suspicion_score": 100,
+      "total_messages": 500,
+      "has_sog": true,
+      "red_flags_count": 0
+    },
+    {
+      "rank": 22,
+      "twitter": "seymodcoal",
+      "discord": "seymodcoal",
+      "suspicion_score": 100,
+      "total_messages": 500,
+      "has_sog": true,
+      "red_flags_count": 0
+    },
+    {
+      "rank": 23,
+      "twitter": "Shinnnnn262",
+      "discord": "_saintwest",
+      "suspicion_score": 100,
+      "total_messages": 500,
+      "has_sog": true,
+      "red_flags_count": 0
+    },
+    {
+      "rank": 24,
+      "twitter": "SirGwritestoo_",
+      "discord": "sirgbillz",
+      "suspicion_score": 100,
+      "total_messages": 500,
+      "has_sog": true,
+      "red_flags_count": 0
+    },
+    {
+      "rank": 25,
+      "twitter": "TheCryptoUsman",
+      "discord": "cryptowithusman",
+      "suspicion_score": 100,
+      "total_messages": 500,
+      "has_sog": true,
+      "red_flags_count": 0
+    },
+    {
+      "rank": 26,
+      "twitter": "xwatiiiii",
+      "discord": "iamswatiiiii",
+      "suspicion_score": 100,
+      "total_messages": 500,
+      "has_sog": true,
+      "red_flags_count": 0
+    },
+    {
+      "rank": 27,
+      "twitter": "yoriichi_td1",
+      "discord": "yoriichi_td1",
+      "suspicion_score": 100,
+      "total_messages": 500,
+      "has_sog": true,
+      "red_flags_count": 0
+    }
+  ]
+}
